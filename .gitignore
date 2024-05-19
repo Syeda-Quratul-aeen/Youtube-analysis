@@ -69,3 +69,4 @@ config.json
 *.jpg
 *.jpeg
 
+!*.py
